@@ -65,7 +65,6 @@ float Basket::total()
     }
     return sum;
 }
-
 std::set<std::string> Basket::getDiscounts(std::string item)
 {
     std::set<std::string> discounts;

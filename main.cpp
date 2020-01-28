@@ -49,3 +49,14 @@ int main()
 
     return 0;
 }
+
+// cout: (to compare solution):
+// basket with discounts
+// 861.15
+// 845.9
+//
+// basket without discounts
+// 1337
+// 1306.5
+//
+// Process finished with exit code 0
